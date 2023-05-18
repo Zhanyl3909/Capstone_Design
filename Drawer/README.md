@@ -20,5 +20,5 @@
 
 # Result
 
-![App Screenshot](/Users/zhanylai11/Pictures/drawer02.png)
+![App Screenshot](/src/drawer02.png)
 
