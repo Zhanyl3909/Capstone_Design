@@ -5,7 +5,7 @@ MouseListener and MouseMotionListener is an interface in java.awt.event package 
 
 ## Mouse events
 
-마우스를 조작할때 호출되는 이벤트 핸들러들 덩의 
+마우스를 조작할때 호출되는 이벤트핸들러들 정의 
 
 ```java
 public interface MouseListener {
@@ -18,7 +18,7 @@ public interface MouseListener {
 }
 ```
 
-마우스를 움직일때 호출되는 이벤트 핸들러들 정의
+마우스를 움직일때 호출되는 이벤트핸들러들 정의 
 
 ```java
 public interface MouseMotionLisstener {
@@ -41,7 +41,7 @@ public interface WindowListener {
 }
 ```
 
-버튼을 클릭할때 호출되는 이벤트핸들러 정의
+버튼을 클릭할때 호출되는 이벤트핸들러들 정의 
 
 ```java
 public interface ActionsListener {
@@ -49,7 +49,7 @@ public interface ActionsListener {
 }
 ```
 
-키보드를 누를때 호출되는 이벤트핸들러 정의
+키보드를 누를때 호출되는 이벤트핸들러들 정의 
 
 ```java
 public interface KeyListener {
@@ -59,7 +59,7 @@ public interface KeyListener {
 }
 ```
 
-Scroll-bar 조작할때 호출되는 이벤트핸들러 정의
+Scroll-bar 조작할때 호출되는 이벤트핸들러들 정의 
 
 ```java
 public interface AdjustmentListener {
@@ -67,7 +67,7 @@ public interface AdjustmentListener {
 }
 ```
 
-텍스트에 입력할때 호출되는 이벤트핸들러 정의
+텍스트에 입력할때 호출되는 이벤트핸들러들 정의 
 
 ```java
 public interface TextListener {
@@ -75,7 +75,7 @@ public interface TextListener {
 }
 ```
 
-체크박스나 리스트의 상태 변화시 호출되는 이벤트핸들러 정의
+체크박스나 리스트의 상태 변화시호출되는 이벤트핸들러들 정의 
 
 ```java
 public interface ItemListener {
@@ -83,7 +83,7 @@ public interface ItemListener {
 }
 ```
 
-윈도가 활성화 되거나 비활성화 될때 호출되는 이벤트핸들러 정의
+윈도가 활성화 되거나 비활성화 될때 호출되는 이벤트핸들러들 정의 
 
 ```java
 public interface FocusListener {
