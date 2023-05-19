@@ -9,11 +9,11 @@ MouseListener and MouseMotionListener is an interface in java.awt.event package 
 
 ```java
 public interface MouseListener {
- public void mouseClicked(MouseEvent e);
- public void mousePressed(MouseEvent e);
- public void mouseReleased(MouseEvent e);
- public void mouseEntered(MouseEvent e);
- public void mouseExited(MouseEvent e);
+  	public void mouseClicked(MouseEvent e);
+	public void mousePressed(MouseEvent e);
+ 	public void mouseReleased(MouseEvent e);
+	public void mouseEntered(MouseEvent e);
+	public void mouseExited(MouseEvent e);
 
 }
 ```
@@ -22,8 +22,8 @@ public interface MouseListener {
 
 ```java
 public interface MouseMotionLisstener {
- public void mouseDragged(MouseEvent e);
- public void mouseMoved(MouseEvent e);
+	public void mouseDragged(MouseEvent e);
+	public void mouseMoved(MouseEvent e);
 }
 ```
 
@@ -52,10 +52,10 @@ public interface ActionsListener {
 키보드를 누를때 호출되는 이벤트핸들러 정의
 
 ```java
-	public interface KeyListener {
-			public void keyTyped(KeyEvent e);
-			public void keyPressed(KeyEvent e);
-			public void keyReleased(KeyEvent e);
+public interface KeyListener {
+	public void keyTyped(KeyEvent e);
+	public void keyPressed(KeyEvent e);
+	public void keyReleased(KeyEvent e);
 }
 ```
 
