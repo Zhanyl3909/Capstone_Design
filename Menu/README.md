@@ -64,7 +64,7 @@ openFile.setIcon(new ImageIcon("src/openFile.jpg")); //path
 
 # Result
 
-![App Screenshot](/Menu/src/menu-updated.png)
+![App Screenshot](/Menu/src/menu-udated.png)
 
 
 
