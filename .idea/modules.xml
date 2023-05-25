@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Box/Box.iml" filepath="$PROJECT_DIR$/Box/Box.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CapDes.iml" filepath="$PROJECT_DIR$/.idea/CapDes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Drawer/Drawer.iml" filepath="$PROJECT_DIR$/Drawer/Drawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Menu/Menu.iml" filepath="$PROJECT_DIR$/Menu/Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Menu_Bar/Menu_Bar.iml" filepath="$PROJECT_DIR$/Menu_Bar/Menu_Bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MouseListener/MouseListener.iml" filepath="$PROJECT_DIR$/MouseListener/MouseListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/Rectangle/Rectangle.iml" />
+    </modules>
+  </component>
+</project>
