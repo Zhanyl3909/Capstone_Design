@@ -93,6 +93,18 @@ public class DrawerFrame extends JFrame {
         });
 
 
+        JMenu figureMenu = new JMenu("Figure(F)");
+        menus.add(figureMenu);
+
+        JMenuItem box = new JMenuItem("Box(b)");
+        figureMenu.add(box);
+        box.addActionListener( (e) ->
+                canvas.setWhatToDraw(DrawerView.DRAW_BOX));
+
+        JMenuItem line = new JMenuItem("Line(l)");
+        figureMenu.add(line);
+        line.addActionListener( (e) ->
+                canvas.setWhatToDraw(DrawerView.DRAW_LINE));
 
 
 
@@ -110,7 +122,6 @@ public class DrawerFrame extends JFrame {
         aboutHelp.addActionListener((e) ->
                 {JOptionPane.showMessageDialog(null, "Context\r\n here", "Title", JOptionPane.INFORMATION_MESSAGE);}
                 );
-
 
 
 
