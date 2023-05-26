@@ -21,9 +21,9 @@ public void paintComponent(Graphics g) {
 
 ## Result
 
-![App Screenshot](/Box/src/box_01.png)
+![App Screenshot](/Box/src/box_up01.png)
 
-![App Screenshot](/Box/src/box_02.png)
+![App Screenshot](/Box/src/box_up02.png)
 
 
 
