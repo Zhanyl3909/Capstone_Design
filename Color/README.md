@@ -1,7 +1,7 @@
 
 
 # Result
-### Add Figure Color
+## Add Figure Color
 
 ![App Screenshot](/Color/src/color.png)
 
