@@ -1,7 +1,7 @@
 
 
 # Result
-### Add Status Bar
+## Add Status Bar
 
 ![App Screenshot](/StatusBar/src/statusbar.png)
 
