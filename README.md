@@ -1,5 +1,5 @@
 # 그림판 - Paint 
-## Based by Java GUI (Swing) Framework
+## Based on Java GUI (Swing) Framework
 🖼️
 Project: "Paint" - Digital Drawing Application
 
