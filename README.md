@@ -1,5 +1,6 @@
 # 그림판 - Paint 
 ## Based by Java GUI (Swing) Framework
+🖼️
 Project: "Paint" - Digital Drawing Application
 
 * Developed a digital drawing application, "Paint," as a personal project to enhance my programming skills and explore graphical user interfaces (GUIs).
