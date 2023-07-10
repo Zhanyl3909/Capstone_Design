@@ -17,3 +17,12 @@ Project: "Paint" - Digital Drawing Application
 ## Result
 
 ![App Screenshot](/Result_Func/step01.png)
+![App Screenshot](/Result_Func/step02.png)
+![App Screenshot](/Result_Func/step10.png)
+![App Screenshot](/Result_Func/step03.png)
+![App Screenshot](/Result_Func/step04.png)
+![App Screenshot](/Result_Func/step05.png)
+![App Screenshot](/Result_Func/step06.png)
+![App Screenshot](/Result_Func/step07.png)
+![App Screenshot](/Result_Func/step08.png)
+![App Screenshot](/Result_Func/step09.png)
