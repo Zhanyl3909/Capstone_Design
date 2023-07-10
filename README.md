@@ -12,6 +12,8 @@ Project: "Paint" - Digital Drawing Application
 * Demonstrated proficiency in object-oriented programming (OOP) principles, GUI design, and software development lifecycle through the successful completion of the project.
 
 
-# Result
+#
 
-![App Screenshot](Capstone_Design/Result_Func/step01.png)
+## Result
+
+![App Screenshot](/Result_Func/step01.png)
