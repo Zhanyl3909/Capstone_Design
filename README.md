@@ -10,7 +10,6 @@ Project: "Paint" - Digital Drawing Application
 * Incorporated basic image processing functionality, such as resizing and cropping images, to enhance the versatility of the application.
 * Collaborated with students on an BUFS Lab to gather feedback, address issues, and contribute to the continuous improvement of the application.
 * Demonstrated proficiency in object-oriented programming (OOP) principles, GUI design, and software development lifecycle through the successful completion of the project.
-
 #
 
 ## Result
