@@ -11,7 +11,6 @@ Project: "Paint" - Digital Drawing Application
 * Collaborated with students on an BUFS Lab to gather feedback, address issues, and contribute to the continuous improvement of the application.
 * Demonstrated proficiency in object-oriented programming (OOP) principles, GUI design, and software development lifecycle through the successful completion of the project.
 #
-
 ## Result
 
 ![App Screenshot](/Result_Func/step01.png)
